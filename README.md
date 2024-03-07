@@ -1,2 +1,2 @@
-# Practice-project-using-responsive-design-like-flexbox-grid-and-media-queries-and-bootstrap-
-This is just a learning project for just practising css flexbox ,grid and media queries and bootstrap framework
+# Practice-project  making clone of my college  using responsive design html and css 
+  in this project , i have made the website clone of my college kjsce using basic css responsive design  like grid flexbox and media queries to look different in different devices 
